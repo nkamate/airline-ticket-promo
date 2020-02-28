@@ -1,0 +1,5 @@
+target
+.idea
+*.iml
+./invalidTickets.csv
+./offeredTickets.csv
